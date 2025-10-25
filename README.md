@@ -14,6 +14,7 @@
 
 ### 🧠 About Me
 🔥 Full-Stack Innovator | ⚙️ Tech Visionary | 🕉️ Sanātani Hindu
+--
 I don’t just write code — I *breathe* it, *build* with it, and *bend* reality through it.  
 Each line of code is a mantra, each project a creation of purpose.
 
@@ -48,7 +49,7 @@ Each line of code is a mantra, each project a creation of purpose.
 ### ⚔️ My Philosophy
 > “In the battlefield of code, there are no errors — only lessons.”  
 
-I believe in the :
+I believe in the : --
 💥 *Brahma* for infinite creativity  
 🧠 *Vishnu* for wisdom & strategy  
 🔥 *Shiva* for clarity & destruction of limitations  
@@ -71,7 +72,7 @@ I believe in the :
 
 ---
 
-### 🕉️ “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन”
+## 🕉️ “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन”
 > “Thy right is to work only, but never to the fruits thereof.”
 
 ---
